@@ -17,8 +17,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a7221fca99143c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Rymmer Auktionshaus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a413209f9f2c9e09",
@@ -31,6 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Orte/Rymmer Auktionshaus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,6 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orte/Rymmer Auktionshaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orte/Rymmer Auktionshaus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +236,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Orte/Rymmer Auktionshaus.md"
+              }
             }
           }
         ]
@@ -233,17 +251,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "30d9ec26457189d1",
+  "active": "a7221fca99143c67",
   "lastOpenFiles": [
+    "Orte/Port Damali.md",
+    "Player Characters/Arden Sylva.md",
     "NPCs/Gabriel Rymmer.md",
     "NPCs/Thymus.md",
     "Orte/Lavish Docks.md",
-    "Orte/Port Damali.md",
     "Orte/Clovis Concord.md",
     "NPCs/Masim Farid.md",
     "Orte/Brokenbank Dschungel.md",
     "NPCs/Druik.md",
-    "Orte/Yuan-Ti Tempel.md",
-    "NPCs/Ventha.md"
+    "Orte/Yuan-Ti Tempel.md"
   ]
 }
