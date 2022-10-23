@@ -6,5 +6,6 @@
     "de",
     "en-GB"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "newLinkFormat": "absolute"
 }
