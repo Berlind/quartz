@@ -24,14 +24,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orte/Rymmer Auktionshaus.md",
+                "file": "NPCs/Familie Rymmer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a413209f9f2c9e09",
@@ -44,7 +43,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Orte/Rymmer Auktionshaus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,12 +174,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "441464d251f01dec",
@@ -197,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orte/Rymmer Auktionshaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +211,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orte/Rymmer Auktionshaus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -236,9 +232,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Orte/Rymmer Auktionshaus.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -251,17 +245,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a7221fca99143c67",
+  "active": "30d9ec26457189d1",
   "lastOpenFiles": [
+    "NPCs/Familie Rymmer.md",
+    "NPCs/Mayla.md",
+    "Orte/Urden's Rest.md",
     "Orte/Port Damali.md",
+    "Orte/Rymmer Auktionshaus.md",
     "Player Characters/Arden Sylva.md",
     "NPCs/Gabriel Rymmer.md",
     "NPCs/Thymus.md",
     "Orte/Lavish Docks.md",
-    "Orte/Clovis Concord.md",
-    "NPCs/Masim Farid.md",
-    "Orte/Brokenbank Dschungel.md",
-    "NPCs/Druik.md",
-    "Orte/Yuan-Ti Tempel.md"
+    "Orte/Clovis Concord.md"
   ]
 }
