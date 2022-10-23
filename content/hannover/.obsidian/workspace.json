@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "8332808cdbe15571",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace9d0b89d0e000c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f2a6ef947cf197",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e35924b3f4f199f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Exandria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "234a415acbec1a68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7647a3081e29bb50",
+    "type": "split",
+    "children": [
+      {
+        "id": "e43ffc8544ec8b86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c094c8a1159afb77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7890cc776bcc85e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9b1353f8296fa45",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "441464d251f01dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc479f00d1b8ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86f7972116e7a93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c3afa795ef69904",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d99477b6201a79b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a83257c52468bc1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "81f2a6ef947cf197",
+  "lastOpenFiles": [
+    "Panteon.md",
+    "Thirk Brissle.md",
+    "Orte/Exandria.md",
+    "Moradin.md",
+    "Player Characters/Giles Boulderbreaker.md",
+    "Caustic Heart.md",
+    "Orte/Clovis Concord.md",
+    "Orte/Wildemount.md",
+    "Emon.md",
+    "Garcia.md"
+  ]
+}

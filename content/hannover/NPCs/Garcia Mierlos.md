@@ -1,0 +1,4 @@
+Eine gebräunte menschliche Frau mit dunklen Haaren und Augen, die sich sehr extravagant und teuer kleidet. Ihr erstes Outfit hatte einen dunklen Hut mit pinker Feder, eine magische Augenklappe mit einem gelben, sich bewegendem Auge und silberne Handschuhe. 
+Garcia lebt mit ihrer Familie auf [[Darktow]]. Sie ist eine Offizieren auf der [[Sun Star]] und somit Teil der [[Revelry]]. Von [[Elys]] wurde sie als wichtigstes Mitglied der Crew vorgestellt, da sie sich um das leckere Essen kümmert. Am ersten Tag unserer Reise streute sie ein Pulver über das Essen, welches es unnatürlich lecker machte. 
+
+#middle 

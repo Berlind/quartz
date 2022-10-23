@@ -1,0 +1,4 @@
+Die Signar Familie aus [[Port Damali]]. Sie machten ihr Geld mit dem Verkauf von Kohle, weshalb sie durch die neue Energiegewinnung durch [[Familie Rymmer]] gefährdet werden. Die Signars haben die Rymmers länger überwachen lassen und haben eventuell deren illegale Machenschaften aufgedeckt, weshalb Familienoberhaupt Dresden Signar sowie seine Frau, Tochter und zwei Angestellte (ein menschlicher Mann und eine Halborcin) stranguliert wurden. 
+Da die Strangulierungsmerkmale ähnlich wie die von einem Korrett aussehen, ist davon auszugehen, dass mindestens einer der Magier [[Mirage Visam]] oder [[Marlos Unrally]] an dem Mord beteiligt waren. 
+
+#dead 
